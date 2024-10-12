@@ -1,3 +1,5 @@
+// Learning project
+
 // Use only one core
 #if CONFIG_FREEERTOS_UNICORE
 static const BaseType_t app_cpu = 0;
